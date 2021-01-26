@@ -23,7 +23,7 @@ console.log(processFirstItem(['foo','bar'],function(str){return str+str}));
 
 ///// M V P ///////
 
-/*Task 1: counterMaker()
+/*Task 1: counterMaker() 
   
   Study the code for counter1 and counter2, then answer the questions below.
   
